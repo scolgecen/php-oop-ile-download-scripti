@@ -1,0 +1,28 @@
+body{ padding: 0px; margin: 0px; font: normal normal 14px arial; background: #e5e5e5;}
+.temizle{ clear: both; display: block;}
+#cerceve{ width: 960px; height:auto; padding: 10px; background: #fff; margin: 20px auto;}
+#ust_kisim{ background:#36A5C9; width: 900px; padding: 30px; text-align: center;}
+#alt_kisim{background:#36A5C9; width: 940px; padding: 10px; text-align: center;}
+#icerik{ width: 960px; background:fff;; margin: 20px auto;}
+#sol_kisim{ width: 200px; margin-right: 10px; float: left;  background:white;}
+.menu{ list-style: none; padding: 0px; margin: 0px;}
+.menu li{ margin-bottom: 1px;}  
+.menu li a{ display: block; padding: 10px; background:#36A5C9; text-decoration: none; color:white;}
+.menu li a:hover{ background:black; color:white; }
+#sag_kisim{ width: 750px; float: left; background: pink;}
+#sag_kisim h3{ background:#36A5C9; padding: 10px; margin: 0px; font: normal normal 15px arial; color: white;}
+#sag_kisim .sag_icerik{ background: #e5e5e5; padding: 10px;}
+#login{ width: 300px; height:auto; margin: 0px auto;}
+table{ width: 100%; border-collapse:  collapse;}
+table td{ padding: 5px;}
+table caption{ padding: 10px; background: #36A5C9; color:white;}
+.sagayasla{ text-align: right;}
+.w150{width: 150px;}
+.dosyalar{ margin-top: 10px; margin-bottom: 10px;}
+.dosyalar th{background: #36A5C9; color: #fff; font-size: 12px; 
+	padding: 2px; margin: 1px; text-align: left; height: 30px;}
+.dosyalar tr{height: 30px;}
+.dosyalar td{font-size: 12px; padding: 3px!important;}
+.dosyalar tr:nth-child(2n){background: #fff;}
+.dosyalar tr:nth-child(2n+1){background: #f1f1f1;}
+.dosyalar tr:hover{background: gray;height: 34px;}
